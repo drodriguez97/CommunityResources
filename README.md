@@ -2,7 +2,7 @@
 
 Submitted by: **Daniel Rodriguez**
 
-This web app: ** Mechanical Keyboard Switches will give you more information about new switches that are on the market.**
+This web app: **Mechanical Keyboard Switches will give you more information about new switches that are on the market.**
 
 Time spent: **2** hours spent in total
 
